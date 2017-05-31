@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property_id: 1
+  property_type: MyString
+  city: MyString
+  property_date: 2017-05-31
+  number_of_rooms: 1
+  area_size: MyString
+  per_unit_price: MyString
+
+two:
+  property_id: 1
+  property_type: MyString
+  city: MyString
+  property_date: 2017-05-31
+  number_of_rooms: 1
+  area_size: MyString
+  per_unit_price: MyString
